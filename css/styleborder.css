@@ -1,0 +1,98 @@
+  body {
+    background-color:#b0e0e6;
+    margin: 0;
+    font-family: "Merriweather",sans-serif;
+  }
+  h1
+  {
+  color:#66BFBF;
+  font-size: 5.25rem;
+  font-family: "Sacramento",sans-serif;
+
+  }
+  h2
+  {
+  color:#66BFBF;
+  font-family: "Montserrat",sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  }
+  h3
+  {
+  color:#11999E;
+
+  }
+  h4
+  {
+  color:#000080;
+
+  }
+
+    hr{
+      border-style:dashed solid;
+      border-color: grey;
+      width:60%
+      }
+
+ .Cloud1
+{
+  position: absolute;
+  right: 350px;
+  top: 20px;
+}
+.Cloud2
+{
+ position: absolute;
+ left: 350px;
+ bottom: =250px;
+
+}
+.mountain
+{
+text-align: center;
+}
+
+  .subheading
+  {
+    color: #191970;
+  }
+  .skill-row
+  {
+    width: 50%;
+    margin: auto;
+ }
+ .Skill1
+ {
+   height:200px;
+ }
+ .Achievements
+ {
+   height: 200px;
+ }
+/*  .imagehover:hover .imageH
+  {
+opacity: 0.6;
+ }*/
+  /* .center
+    {
+text-align: center;
+   }*/
+   .topContainer
+   {
+     text-align: center;
+     padding-top: 30px;
+   }
+.middle-container
+{
+  text-align: center;
+  padding-top: 30px;
+}
+.bottom-container
+{
+  text-align: center;
+  padding-top: 30px;
+}
+.footer-link
+{
+  color: #11999E;
+}
